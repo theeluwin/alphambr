@@ -2,6 +2,8 @@
 
 Alpha-channel invoked Minimum Bounding Rectangle.
 
+![AlphaMBR Example](https://user-images.githubusercontent.com/1303549/76687626-8afad300-661d-11ea-8e6c-af3156dfe42a.png)
+
 ## Installation
 
 Just place this `alphambr.py` file into some appropriate location.
